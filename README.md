@@ -1,1 +1,1 @@
-# Java Project using JSP and Servlet
+# Customer Banking System
